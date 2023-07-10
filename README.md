@@ -1,6 +1,8 @@
 # TESTREPO
 <h1>Welcome to the CSoC 2023 Test Repository!</h1>
 
+![Present To](https://github.com/Anushka-Singh1/TESTREPO/assets/98011558/01618133-7888-4a83-8f30-425794f41738)
+
 <p>This repository has been created specifically for CSoC 2023 participants as a testing ground to familiarize themselves with the tools and workflows commonly used during the program.</p> 
 
 <h2>Getting Started</h2>
